@@ -1,4 +1,4 @@
-package Lesson4;
+package Vital.Lesson4;
 import java.util.Scanner;//1.导入包，创建一个监视器
 public class Test1 {
     public static void main(String[] args) {

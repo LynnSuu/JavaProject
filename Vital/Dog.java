@@ -1,3 +1,4 @@
+package Vital;
 public class Dog {
     int size;
     String breed;

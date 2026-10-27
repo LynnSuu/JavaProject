@@ -1,4 +1,4 @@
-package Lesson4;
+package Vital.Lesson4;
 //包声明
 import java.util.Scanner;
 //或者写import java.util.*;

@@ -1,3 +1,5 @@
+package Vital.Project2;
+
 public class Test1 {
     public static void main(String[] args) {
         String name="赖琳琪";
